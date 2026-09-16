@@ -1,0 +1,23 @@
+{
+  "repo": "sharex-full",
+  "product": "ShareX Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "screen-capture",
+  "topics": [
+    "sharex-capture",
+    "screen-annotation",
+    "scroll-capture-tools",
+    "sharex-windows",
+    "support-screenshot",
+    "sharex-2026",
+    "how-to-install-sharex",
+    "sharex-desktop-package",
+    "image-markup-suite",
+    "capture-workflow"
+  ],
+  "site": "toolix.me"
+}
